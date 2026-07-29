@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1930
+slug  : the-hill-equation
+seal  : 47f8ec76ece4790aa2e8b7043cb4e92053a51958ccf504e2e217ad0a5cf7c326
+prev  : 628af196501becd70234cad9810705228246f3fb23c2834d0b2237d83c7bd72a
+link  : 2e1c8e4abf749981fe885650d9e39812ed5de8ba5380536282f321adb5d6cebe
+head  : 2893a850e7fa16bdd15795af206f08071dc5ee18ebd8a2d3df805a73bfd1226e
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
